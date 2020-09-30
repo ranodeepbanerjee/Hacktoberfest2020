@@ -38,7 +38,7 @@ Add a picture picture of your choice in `static/images/`. Accepted files are **p
 static/images/<YOUR-USERNAME>.png
 ```
 
-_Be aware, this picture will be displayed on the yearbook!_
+_Beware, this picture will be displayed on the yearbook!_
 
 ## 2. Add your profile information
 
@@ -62,6 +62,6 @@ github: YOUR-GITHUB-USERNAME
 
 _Do not use special characters in the template above._
 
-## 4. Wait for Pull Request to merge
+## 4. Wait for Pull Request to merge .
 
 ## 5. Celebrate - you've done your first pull request!!
